@@ -3,4 +3,6 @@ My first 3DS homebrew application, made heavily from referencing the examples; h
 
 Features: 
 - The ability to draw with six different colors on the bottom screen
+- Current information on top screen; e.g. Current coords, current color, 
+  and whether erasing/drawing
 - Sloppy begginer source code.
